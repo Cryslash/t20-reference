@@ -11,7 +11,7 @@ Hooks.once('init', () => {
 Hooks.on('getSceneControlButtons' as any, (controls: any) => {
   if (!controls.notes?.tools) return;
 
-  controls.notes.tools['open-t20-arton-map'] = {
+  controls.notes.tools['open-t20-reference'] = {
     name: 'open-t20-reference',
     title: 'Abrir referencias tormenta20',
     icon: 'fa-solid fa-book',

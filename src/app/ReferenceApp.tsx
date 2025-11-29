@@ -1,4 +1,4 @@
-export class InteractiveMapApp extends Application {
+export class ReferenceApp extends Application {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       id: 't20artonmap',
