@@ -1,8 +1,8 @@
 export class ReferenceApp extends Application {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
-      id: 't20artonmap',
-      title: 'Mapa Interativo de Arton',
+      id: 't20-reference',
+      title: 'Referências T20',
       width: 1200,
       height: 800,
       resizable: true,
