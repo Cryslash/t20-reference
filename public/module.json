@@ -21,10 +21,10 @@
   "relationships": {
     "systems": [
       {
-        "id": "vtm5e",
+        "id": "tormenta20",
         "type": "system",
         "compatibility": {
-          "verified": "5.2.0"
+          "verified": "1.5.012"
         }
       }
     ]
