@@ -1,0 +1,32 @@
+{
+  "id": "t20-reference",
+  "title": "Referencia T20",
+  "description": "Guia de referencia rápida de Tormenta20.",
+  "version": "0.0.1",
+  "compatibility": {
+    "verified": "13"
+  },
+  "authors": [{ "name": "Crystofher Lins" }],
+  "esmodules": ["index.js"],
+
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "readme": "README.md",
+  "license": "MIT",
+
+  "bugs": {
+    "url": ""
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {
+          "verified": "5.2.0"
+        }
+      }
+    ]
+  }
+}
