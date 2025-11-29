@@ -11,7 +11,7 @@
 
   "url": "https://github.com/Cryslash/t20-reference",
   "manifest": "https://raw.githubusercontent.com/Cryslash/t20-reference/refs/heads/main/public/module.json",
-  "download": "",
+  "download": "https://github.com/Cryslash/t20-reference/releases/download/v0.0.1/t20-reference.zip",
   "readme": "README.md",
   "license": "MIT",
 
